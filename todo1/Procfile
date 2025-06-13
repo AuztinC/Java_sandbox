@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/todo1.jar clojure.main -m todo1.server
